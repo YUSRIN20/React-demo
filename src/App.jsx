@@ -15,7 +15,7 @@ const App = () => {
       {id:1,name:'Anbu',designation:'fsd'},
       {id:2,name:'yusrin',designation:'manager'},
       {id:3,name:'gopi',designation:'fsd'},
-      {id:4,name:'rafi',designation:'fsd'},
+      // {id:4,name:'rafi',designation:'fsd'},
     ]
   
 
